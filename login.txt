@@ -1,0 +1,8 @@
+#Autenticacao ssh no git
+1) Criar uma chave ssh no computador de trabalho
+2) Publicar a chave publica no git
+
+#Clonar um repositorio via ssh
+
+1) git clone ssh://git@github.com:<usuario>/<repositorio.git>
+2) Inserir a mesma senha quando a chave ssh foi criada
